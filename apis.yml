@@ -1,7 +1,12 @@
 aid: calumet-specialty-products-partners
-url: https://raw.githubusercontent.com/api-evangelist/calumet-specialty-products-partners/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/calumet-specialty-products-partners/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.calumet-specialty-products-partners.com
+description: >-
+  Calumet Specialty Products Partners is a producer of specialty hydrocarbon and fuel
+  products including lubricating oils, solvents, waxes, asphalt, and other hydrocarbon
+  products.
