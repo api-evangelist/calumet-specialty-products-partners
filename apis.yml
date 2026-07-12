@@ -30,6 +30,8 @@ description: >-
   handled via B2B portals and EDI.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/calumet-specialty-products-partners-domain-security.yml
   - type: Website
     url: https://www.calumet.com/
   - type: Wikipedia
@@ -44,6 +46,8 @@ common:
     url: https://www.belray.com/
   - type: TruFuel
     url: https://www.trufuel50.com/
+  - type: Blog
+    url: https://www.calumet.com/feed/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
