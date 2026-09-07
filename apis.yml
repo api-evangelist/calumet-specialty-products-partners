@@ -52,6 +52,10 @@ description: >-
   handled via B2B portals and EDI.
 apis: []
 common:
+  - type: Customers
+    url: https://calumet.com/products/
+  - type: Resources
+    url: https://calumet.com/resources/
   - type: DomainSecurity
     url: security/calumet-specialty-products-partners-domain-security.yml
   - type: Website
@@ -85,8 +89,6 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
-x-parent: calumet
-x-relationship: product
 x-enrichment:
   date: '2026-09-06'
   status: minimal
