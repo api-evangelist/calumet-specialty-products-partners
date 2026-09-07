@@ -38,7 +38,7 @@ tags:
   - Specialty Chemicals
   - Waxes
 created: '2024-01-01'
-modified: '2026-04-23'
+modified: '2026-09-06'
 specificationVersion: '0.23'
 description: >-
   Calumet, Inc. (NASDAQ: CLMT) is a publicly traded U.S. manufacturing company
@@ -59,7 +59,7 @@ common:
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/Calumet_Specialty_Products_Partners
   - type: Investor Relations
-    url: https://ir.calumet.com/
+    url: https://calumet.investorroom.com/
   - type: LinkedIn
     url: https://www.linkedin.com/company/calumet
   - type: Royal Purple
@@ -70,8 +70,47 @@ common:
     url: https://www.trufuel50.com/
   - type: Blog
     url: https://www.calumet.com/feed/
+  - type: TermsOfService
+    url: https://calumet.com/termsofsale/
+  - type: PrivacyPolicy
+    url: https://calumet.com/privacy-policy/
+  - type: Support
+    url: https://calumet.com/contact-us/
+  - type: LLMsTxt
+    url: llms/calumet-specialty-products-partners-llms.txt
+  - type: Plans
+    url: plans/calumet-specialty-products-partners-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/calumet-specialty-products-partners-rate-limits.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 x-parent: calumet
 x-relationship: product
+x-enrichment:
+  date: '2026-09-06'
+  status: minimal
+  artifacts_added: 4
+  pass: local-v3
+x-coverage:
+  state: none
+  reason: not-a-software-company
+  detail: >-
+    Calumet manufactures and sells physical specialty hydrocarbons — base oils,
+    solvents, waxes, esters, asphalt and fuels — so there is nothing to expose
+    programmatically: api.calumet.com and developer.calumet.com are NXDOMAIN, the
+    Customer Tools page offers a credit application and tax certificates rather
+    than an integration, and the only machine-readable HTTP surface anywhere on
+    calumet.com is the marketing site's stock WordPress /wp-json/ CMS namespace.
+  evidence:
+    - url: https://calumet.com/openapi.json
+      status: 404
+    - url: https://calumet.com/.well-known/api-catalog
+      status: 404
+    - url: https://calumet.com/llms.txt
+      status: 404
+    - url: https://calumet.com/resources/customer-tools/
+      status: 200
+    - url: https://calumet.com/wp-json/
+      status: 200
+  checked: '2026-09-06'

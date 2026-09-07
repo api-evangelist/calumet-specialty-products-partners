@@ -1,0 +1,155 @@
+generated: '2026-09-06'
+method: probed
+source: >-
+  Live anonymous HTTPS probes of the RFC 8615 well-known namespace on every host
+  this record knows — the registrable domain and www, the four brand hosts named
+  in common[], and the investor-relations host. No API baseURL or OpenAPI
+  servers[] host exists for this company, so there is no third host class to probe.
+note: >-
+  Every named path missed on every host. Calumet publishes no security.txt, no
+  OpenID/OAuth discovery document, no /.well-known/api-catalog, no ai-plugin.json
+  and no A2A agent card. No WellKnown or SecurityTxt pointer is emitted, because
+  this file records an ABSENCE and a pointer would assert the company serves these
+  documents. www.royalpurple.com and www.trufuel50.com answer 200 on every
+  /.well-known/* path by 301-redirecting to their homepage — a soft-404 catch-all,
+  recorded here as a miss (soft_404: true), never as a hit.
+hosts:
+  - host: calumet.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /.well-known/agent-card.json
+        status: 404
+      - path: /.well-known/agent.json
+        status: 404
+      - path: /llms.txt
+        status: 404
+  - host: www.calumet.com
+    note: 301-redirects to the apex host calumet.com; results recorded under that host.
+    documents:
+      - path: /.well-known/security.txt
+        status: 301
+      - path: /.well-known/api-catalog
+        status: 301
+      - path: /.well-known/agent-card.json
+        status: 301
+      - path: /llms.txt
+        status: 301
+  - host: www.royalpurple.com
+    note: >-
+      Unknown paths 301 to the site homepage, which returns 200 text/html
+      ("Find Your Perfect Match: Premium Synthetic Oil by Royal Purple").
+      Every 200 below is that soft-404 shell, not a document.
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 200
+        soft_404: true
+      - path: /.well-known/oauth-authorization-server
+        status: 200
+        soft_404: true
+      - path: /.well-known/api-catalog
+        status: 200
+        soft_404: true
+      - path: /.well-known/ai-plugin.json
+        status: 200
+        soft_404: true
+      - path: /.well-known/agent-card.json
+        status: 200
+        soft_404: true
+      - path: /.well-known/agent.json
+        status: 200
+        soft_404: true
+      - path: /llms.txt
+        status: 200
+        soft_404: true
+  - host: www.belray.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /.well-known/agent-card.json
+        status: 404
+      - path: /.well-known/agent.json
+        status: 404
+      - path: /llms.txt
+        status: 404
+  - host: www.trufuel50.com
+    note: Same soft-404 catch-all shape as www.royalpurple.com.
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 200
+        soft_404: true
+      - path: /.well-known/api-catalog
+        status: 200
+        soft_404: true
+      - path: /.well-known/agent-card.json
+        status: 200
+        soft_404: true
+      - path: /.well-known/agent.json
+        status: 200
+        soft_404: true
+      - path: /llms.txt
+        status: 200
+        soft_404: true
+  - host: penreco.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /.well-known/agent-card.json
+        status: 404
+      - path: /.well-known/agent.json
+        status: 404
+      - path: /llms.txt
+        status: 404
+  - host: calumet.investorroom.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /.well-known/agent-card.json
+        status: 404
+      - path: /.well-known/agent.json
+        status: 404
+      - path: /llms.txt
+        status: 404
+  - host: ir.calumet.com
+    note: >-
+      NXDOMAIN — the host no longer resolves at all (dig returns no answer at
+      8.8.8.8 and 1.1.1.1). It was carried in common[] as the Investor Relations
+      pointer and has been replaced with calumet.investorroom.com, which serves
+      the IR site today.
+    documents: []

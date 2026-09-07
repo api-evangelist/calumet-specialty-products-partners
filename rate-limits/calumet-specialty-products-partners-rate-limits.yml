@@ -1,0 +1,13 @@
+generated: '2026-09-06'
+method: searched
+source: https://calumet.com/
+limit_count: 0
+note: >-
+  No published rate limits, because there is no API to limit. Searched
+  2026-09-06 across calumet.com and the brand hosts: no developer portal, no API
+  reference, no API host (api.calumet.com and developer.calumet.com are
+  NXDOMAIN), and therefore no documented quota, window, burst allowance,
+  X-RateLimit-*/RateLimit-* response headers or 429 semantics. Recorded as an
+  honest zero rather than omitted.
+rate_limits: []
+headers: []

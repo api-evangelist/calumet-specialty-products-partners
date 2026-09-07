@@ -1,0 +1,18 @@
+generated: '2026-09-06'
+method: searched
+source: https://calumet.com/resources/customer-tools/
+plan_count: 0
+note: >-
+  Calumet publishes no API plans, tiers or pricing of any kind, because it
+  publishes no API. It is a specialty-hydrocarbon manufacturer selling physical
+  product; commercial terms are set per customer through a credit application,
+  the published Terms of Sale and the sales organization, not through a
+  self-serve plan page. Searched 2026-09-06: the site has no /pricing page, the
+  Customer Tools page (HTTP 200) lists only terms of sale, a credit application,
+  an auto-debit agreement, a cash-in-advance form, tax certificates and a W-9,
+  and no API subdomain exists to price. This is an honest zero, not an
+  unmeasured gap.
+plans: []
+related:
+  terms_of_sale: https://calumet.com/termsofsale/
+  customer_tools: https://calumet.com/resources/customer-tools/
