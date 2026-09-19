@@ -28,6 +28,17 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/calumet-sp
 type: Index
 tags:
   - Asphalt
+  - Fuel
+  - Hydrocarbons
+  - Lubricants
+  - Manufacturing
+  - Petroleum
+  - Renewable Diesel
+  - Solvents
+  - Specialty Chemicals
+  - Waxes
+tags_raw:
+  - Asphalt
   - Fuels
   - Hydrocarbons
   - Lubricants
