@@ -2,7 +2,9 @@
 title: Calumet Announces Sale of Assets Related to Industrial Portion of its Royal
   Purple® Business
 url: https://calumet.com/calumet-announces-sale-of-assets-related-to-industrial-portion-of-its-royal-purple-business/
-date: '2025-03-03'
+published: ''
+date_basis: harvested
+harvested: '2025-03-03'
 author: Calumet News
 feed_url: http://www.calumetspecialty.com/news/feed
 ---

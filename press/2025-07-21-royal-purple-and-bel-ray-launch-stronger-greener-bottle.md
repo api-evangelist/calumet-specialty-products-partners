@@ -1,7 +1,9 @@
 ---
 title: Royal Purple & Bel-Ray Launch Stronger, Greener Bottle
 url: https://calumet.com/royal-purple-bel-ray-launch-stronger-greener-bottle/
-date: '2025-07-21'
+published: ''
+date_basis: harvested
+harvested: '2025-07-21'
 author: Adam Harness
 feed_url: http://www.calumetspecialty.com/news/feed
 ---

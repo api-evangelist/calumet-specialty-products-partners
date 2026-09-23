@@ -2,7 +2,9 @@
 title: Calumet Dickinson Receives Environmental Award for Recycling 28M Pounds of
   Sustainable Materials
 url: https://calumet.com/calumet-dickinson-receives-environmental-award-for-recycling-28m-pounds-of-sustainable-materials/
-date: '2025-08-11'
+published: ''
+date_basis: harvested
+harvested: '2025-08-11'
 author: Adam Harness
 feed_url: http://www.calumetspecialty.com/news/feed
 ---

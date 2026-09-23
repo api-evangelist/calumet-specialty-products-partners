@@ -1,7 +1,9 @@
 ---
 title: Calumet To Award Four Stem Scholarships To Area Seniors
 url: https://calumet.com/calumet-to-award-four-stem-scholarships-to-area-seniors/
-date: '2025-05-05'
+published: ''
+date_basis: harvested
+harvested: '2025-05-05'
 author: Calumet News
 feed_url: http://www.calumetspecialty.com/news/feed
 ---

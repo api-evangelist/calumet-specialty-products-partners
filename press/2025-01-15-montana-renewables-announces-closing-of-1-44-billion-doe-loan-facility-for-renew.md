@@ -2,7 +2,9 @@
 title: Montana Renewables Announces Closing of $1.44 Billion DOE Loan Facility for
   Renewable Fuels and Biomass Energy Facility
 url: https://calumet.com/montana-renewables-announces-closing-of-1-44-billion-doe-loan-facility-for-renewable-fuels-and-biomass-energy-facility/
-date: '2025-01-15'
+published: ''
+date_basis: harvested
+harvested: '2025-01-15'
 author: Calumet News
 feed_url: http://www.calumetspecialty.com/news/feed
 ---

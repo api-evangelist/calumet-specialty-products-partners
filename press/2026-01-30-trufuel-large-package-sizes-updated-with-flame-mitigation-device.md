@@ -1,7 +1,9 @@
 ---
 title: TRUFUEL Large Package Sizes Updated With Flame Mitigation Device
 url: https://calumet.com/trufuel-large-package-sizes-updated-with-flame-mitigation-device/
-date: '2026-01-30'
+published: ''
+date_basis: harvested
+harvested: '2026-01-30'
 author: Adam Harness
 feed_url: http://www.calumetspecialty.com/news/feed
 ---

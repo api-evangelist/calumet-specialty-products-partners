@@ -1,7 +1,9 @@
 ---
 title: Calumet CEO Interviewed by Newsweek’s Aviation Investment Report
 url: https://calumet.com/calumet-ceo-interviewed-by-newsweeks-aviation-investment-report/
-date: '2024-11-11'
+published: ''
+date_basis: harvested
+harvested: '2024-11-11'
 author: Calumet News
 feed_url: http://www.calumetspecialty.com/news/feed
 ---

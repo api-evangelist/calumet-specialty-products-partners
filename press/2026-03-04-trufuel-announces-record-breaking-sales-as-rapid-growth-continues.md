@@ -1,7 +1,9 @@
 ---
 title: TRUFUEL® Announces Record-Breaking Sales as Rapid Growth Continues
 url: https://calumet.com/trufuel-announces-record-breaking-sales-as-rapid-growth-continues/
-date: '2026-03-04'
+published: ''
+date_basis: harvested
+harvested: '2026-03-04'
 author: Adam Harness
 feed_url: http://www.calumetspecialty.com/news/feed
 ---

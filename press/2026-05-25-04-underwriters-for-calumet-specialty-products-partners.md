@@ -1,7 +1,9 @@
 ---
 title: Underwriters for Calumet Specialty Products Partners
 url: https://www.bakerbotts.com/en/experience/u/underwriters-for-calumet-specialty-produ
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Calumet Specialty Products Partners" press release artificial intelligence'
 position: 4
 source: serpapi-google

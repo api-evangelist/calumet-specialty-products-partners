@@ -1,7 +1,9 @@
 ---
 title: Calumet Specialty Products Partners, L.P. Announces ...
 url: https://www.prnewswire.com/news-releases/calumet-specialty-products-partners-lp-announces-corporate-transition-301983356.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Calumet Specialty Products Partners" press release artificial intelligence'
 position: 1
 source: serpapi-google

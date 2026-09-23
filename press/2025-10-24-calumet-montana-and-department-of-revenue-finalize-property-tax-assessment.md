@@ -1,7 +1,9 @@
 ---
 title: Calumet Montana and Department of Revenue Finalize Property Tax Assessment
 url: https://calumet.com/calumet-montana-and-department-of-revenue-finalize-property-tax-assessment/
-date: '2025-10-24'
+published: ''
+date_basis: harvested
+harvested: '2025-10-24'
 author: Adam Harness
 feed_url: http://www.calumetspecialty.com/news/feed
 ---
