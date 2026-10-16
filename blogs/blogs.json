@@ -2,11 +2,11 @@
   "repo": "calumet-specialty-products-partners",
   "feeds": [
     {
-      "source": "https://www.trufuel50.com/",
-      "feed_url": "https://trufuel50.com/feed/",
+      "source": "https://www.calumet.com/feed/",
+      "feed_url": "https://www.calumet.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
     },
     {
       "source": "https://trufuel50.com/feed/",
@@ -14,16 +14,9 @@
       "title": "",
       "saved": 0,
       "method": "feed"
-    },
-    {
-      "source": "https://www.calumet.com/feed/",
-      "feed_url": "https://www.calumet.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 21,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
