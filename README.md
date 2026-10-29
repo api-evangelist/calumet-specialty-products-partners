@@ -1,4 +1,4 @@
-# Calumet Specialty Products Partners (calumet-specialty-products-partners)
+# Calumet Specialty Products Partners
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,48 +64,95 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Calumet, Inc. (NASDAQ: CLMT) is a publicly traded U.S. manufacturing company established in 1919, headquartered in Indianapolis, Indiana. The firm specializes in the manufacture of lubricating oils, solvents, waxes, packaged and synthetic specialty products, fuels, renewable diesel, and fuel-related products. It operates 12 production facilities across North America and serves approximately 2,700 global customers in over 90 countries through brands including Royal Purple, Bel-Ray, Penreco, Orchex, and TruFuel.
+Calumet, Inc. (NASDAQ: CLMT) is a publicly traded U.S. manufacturing company established in 1919, headquartered in Indianapolis, Indiana. The firm specializes in the manufacture of lubricating oils, solvents, waxes, packaged and synthetic specialty products, fuels, renewable diesel, and fuel-related products. It operates 12 production facilities across North America and serves approximately 2,700 global customers in over 90 countries through brands including Royal Purple, Bel-Ray, Penreco, Orchex, and TruFuel. Calumet does not publish a public developer API program; commercial integrations are handled via B2B portals and EDI.
 
-**URL:** [Visit APIs.yml URL](https://raw.githubusercontent.com/api-evangelist/calumet-specialty-products-partners/refs/heads/main/apis.yml)
+**Areas:** Asphalt · Fuel · Hydrocarbons · Lubricants · Manufacturing · Petroleum · Renewable Diesel · Solvents · Specialty Chemicals · Waxes
 
-## Scope
+## Calumet Specialty Products Partners on APIs.io
 
-- **Type:** Index
+Everything profiled for Calumet Specialty Products Partners is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/calumet-specialty-products-partners/](https://apis.io/providers/calumet-specialty-products-partners/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Asphalt
-- Fuels
-- Hydrocarbons
-- Lubricants
-- Manufacturing
-- Petroleum
-- Renewable Diesel
-- Solvents
-- Specialty Chemicals
-- Waxes
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-04-23
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Calumet Specialty Products Partners Domain Security](https://apis.io/security/calumet-specialty-products-partners/calumet-specialty-products-partners-domain-security/)
 
-Calumet does not publish a public developer API program. Commercial and supply chain integrations for specialty hydrocarbon products are handled through B2B portals and EDI rather than a public developer portal.
+#### Plans and pricing (1)
 
-## Common Properties
+Published plans, tiers and prices.
+
+- [Calumet Specialty Products Partners Plans Pricing](https://apis.io/plans/calumet-specialty-products-partners/calumet-specialty-products-partners-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Calumet Specialty Products Partners Rate Limits](https://apis.io/rate-limits/calumet-specialty-products-partners/calumet-specialty-products-partners-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.calumet.com/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Calumet_Specialty_Products_Partners)
-- [Investor Relations](https://ir.calumet.com/)
-- [LinkedIn](https://www.linkedin.com/company/calumet)
-- [Royal Purple](https://www.royalpurple.com/)
-- [Bel-Ray](https://www.belray.com/)
-- [TruFuel](https://www.trufuel50.com/)
+- [Support](https://calumet.com/contact-us/)
+- [Blog](https://www.calumet.com/feed/)
+- [Terms of service](https://calumet.com/termsofsale/)
+- [Privacy policy](https://calumet.com/privacy-policy/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 10.2** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 5.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.5** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/calumet-specialty-products-partners/](https://apis.io/providers/calumet-specialty-products-partners/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Calumet Specialty Products Partners: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/calumet-specialty-products-partners/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
